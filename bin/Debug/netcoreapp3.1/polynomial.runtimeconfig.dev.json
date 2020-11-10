@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mawas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mawas\\.nuget\\packages"
+    ]
+  }
+}

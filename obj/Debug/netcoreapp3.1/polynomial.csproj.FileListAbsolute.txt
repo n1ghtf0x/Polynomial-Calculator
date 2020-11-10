@@ -1,0 +1,13 @@
+C:\Users\mawas\Desktop\g_projects\polynomial\bin\Debug\netcoreapp3.1\polynomial.exe
+C:\Users\mawas\Desktop\g_projects\polynomial\bin\Debug\netcoreapp3.1\polynomial.deps.json
+C:\Users\mawas\Desktop\g_projects\polynomial\bin\Debug\netcoreapp3.1\polynomial.runtimeconfig.json
+C:\Users\mawas\Desktop\g_projects\polynomial\bin\Debug\netcoreapp3.1\polynomial.runtimeconfig.dev.json
+C:\Users\mawas\Desktop\g_projects\polynomial\bin\Debug\netcoreapp3.1\polynomial.dll
+C:\Users\mawas\Desktop\g_projects\polynomial\bin\Debug\netcoreapp3.1\polynomial.pdb
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.csprojAssemblyReference.cache
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.AssemblyInfoInputs.cache
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.AssemblyInfo.cs
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.csproj.CoreCompileInputs.cache
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.dll
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.pdb
+C:\Users\mawas\Desktop\g_projects\polynomial\obj\Debug\netcoreapp3.1\polynomial.genruntimeconfig.cache
