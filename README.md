@@ -15,5 +15,5 @@ Do not edit any files! If some changes will be done to these files, program stop
 ### Instructions
 
 <br/>
-You can run program going to bin folder and opening polynomial.exe file.
+You can run program going to bin/Debug/netcoreapp3.1/ folder and opening polynomial.exe file.
 <br />

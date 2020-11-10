@@ -6,7 +6,7 @@ namespace polynomial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to program calculating polynomial value!\nThis program uses Homer's algorithm.");
+            Console.WriteLine("Welcome to program calculating polynomial value!\nThis program uses Horner's algorithm.");
             Console.WriteLine("f(x) = x*a0 + (x^2)*a1 + ... + (x^n-1)*a(n - 2) + (x^n)*a(n - 1) + an");
             Console.WriteLine("First input polynomial grade: ");
             int grade = Convert.ToInt32(Console.ReadLine());
